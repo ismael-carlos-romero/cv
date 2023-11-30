@@ -1,0 +1,23 @@
+body {
+    color: brown;
+    background-color: black;
+}
+header {
+    background-color: blue;
+    height: 100px;
+}
+footer {
+    background-color: blueviolet;
+}
+p {
+    color: yellow;
+}
+h1 {
+    color: white; text-align: center;
+}
+#texto-footer {
+    color: yellow; font-size: 40%;
+}
+.importante {
+ background-color: blue; color: red;  
+}
